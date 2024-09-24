@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السيرة الذاتية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: right;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p, li {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>اسمك هنا</h1>
+        <h2>المسمى الوظيفي</h2>
+        <p>وصف مختصر عنك وعن تجربتك المهنية.</p>
+        <h2>الخبرات المهنية</h2>
+        <ul>
+            <li>وظيفة 1 - التاريخ</li>
+            <li>وظيفة 2 - التاريخ</li>
+        </ul>
+        <h2>التعليم</h2>
+        <p>الدرجة العلمية - الجامعة</p>
+        <h2>المهارات</h2>
+        <p>مهارة 1، مهارة 2، مهارة 3</p>
+    </div>
+</body>
+</html>
